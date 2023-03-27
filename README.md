@@ -17,6 +17,6 @@ Writing code and building things, contributing to Open Source here on Github.
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+buddy!+👋;I'm+Cobby+Anim...;A+Software+Engineer+in+love+with+operations;Welcome+to+my+CodeSpace!;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there+!+👋;I'm+Cobby+Anim...;A+Software+Engineer+in+love+with+operations;Welcome+to+my+CodeSpace!;&center=true&size=20">
   </a>
 </h1>
