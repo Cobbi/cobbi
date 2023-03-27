@@ -3,7 +3,7 @@
 Hi there 👋 <br/>
 I caught fire coding!<br/>
 Cobby, is a software engineer in love with Operations. Addicted to servers.<br/>
-Writing code and building things, contributing to Open Source here on Github.
+I enjoy writing code, building things and contributing to Open Source here on Github.
 
 
 - 🔭 I’m currently working on climate interative map
