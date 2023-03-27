@@ -6,9 +6,9 @@ Cobby, is a software engineer in love with Operations. Addicted to servers.<br/>
 I enjoy writing code, building things and contributing to Open Source here on Github.
 
 
-- 🔭 I’m currently working on climate interative map
-- 🌱 Enjoy learning anything I can get my hands on
-- 👯 Always looking forward to collaborate
+- 🔭 I’m currently working on climate interative map.
+- 🌱 Enjoy learning anything I can get my hands on.
+- 👯 Always looking forward to collaborate.
 - 📫 Let's connect - https://twitter.com/cobbyanim
 
 <div id="header" align="center">
