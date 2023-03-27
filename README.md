@@ -24,5 +24,5 @@ I enjoy writing code, building things and contributions to Open Source here on G
 
 
 
-![Cobby CodeSpace](https://user-images.githubusercontent.com/39762158/228011909-8bdbe023-3cad-48da-8269-6aaed3a8508f.gif)
+<a href="https://twitter.com/cobbyanim" target="_blank">![Cobby CodeSpace](https://user-images.githubusercontent.com/39762158/228011909-8bdbe023-3cad-48da-8269-6aaed3a8508f.gif)</a>
 
