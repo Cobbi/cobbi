@@ -28,9 +28,6 @@ I enjoy writing code, building things and contributions to Open Source here on G
 <br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cobbi&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://twitter.com/cobbyanim">
-  <img align="right" alt="Cobby Anim | Twitter" width="21px" src="https://raw.githubusercontent.com/cobbi/cobbi/master/assets/twitter.svg" />
-</a>
 
 <a href="http://bit.ly/40klSch" onclick='window.open("http://bit.ly/40klSch");return false;'>![Cobby CodeSpace](https://user-images.githubusercontent.com/39762158/228011909-8bdbe023-3cad-48da-8269-6aaed3a8508f.gif)</a>
 
