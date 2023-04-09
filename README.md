@@ -1,4 +1,3 @@
-<!-- <img alt="coding" width="784" height="180" src="https://user-images.githubusercontent.com/39762158/227996618-bb580d71-644f-45e9-8cf9-33f2a360d3eb.png" /> -->
 ![CobbyCodeSpace](https://user-images.githubusercontent.com/39762158/230792201-0bea5267-fa63-4305-b907-abe9a76855c8.gif)
 
 
