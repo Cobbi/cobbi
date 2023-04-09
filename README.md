@@ -6,7 +6,7 @@ Cobby, is a software engineer in love with Operations. Addicted to servers.<br/>
 I enjoy writing code, building things and contributions to Open Source here on Github.
 
 
-- 🔭 I’m currently working on climate interative map.
+- 🔭 I’m currently working on climate change interative map.
 - 🌱 Enjoy learning anything I can get my hands on.
 - 👯 Always looking forward to collaborate.
 - 📫 Let's connect - https://twitter.com/cobbyanim
@@ -18,7 +18,7 @@ I enjoy writing code, building things and contributions to Open Source here on G
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;Meet+Cobby+Anim...;A+Software+Engineer..;+In+love+with+operations.+;+Let's+connect+👇;+Welcome+to+my+CodeSpace!;&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+👋;Meet+Cobby+Anim...;A+Software+Engineer..;+In+love+with+operations.+;+Let's+connect;+Welcome+to+my+CodeSpace!;&center=true&size=20">
   </a>
 </h1>
 
