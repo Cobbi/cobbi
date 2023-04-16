@@ -4,8 +4,9 @@
 
 Hi there 👋 <br/>
 I caught fire coding!<br/>
-Cobby, is a software engineer in love with Operations. Addicted to servers.<br/>
-I enjoy writing code, building things and making contributions to Open Source here on Github.
+Cobby is a hands-on leader who is passionate about innovation and creating cutting-edge solutions.<br/>
+I'm a problem solver who thrives on tackling complex challenges and finding creative solutions.</br>
+All in all, I enjoy writing code, building things and making contributions to Open Source here on Github.
 
 
 - 🔭 I’m currently working on climate change interactive map.
